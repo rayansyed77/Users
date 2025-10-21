@@ -1,3 +1,16 @@
 {
-  "allowed_users": ["ayansyed", "admin123", "tester01"]
+  "keys": [
+    {
+      "key": "ayan",
+      "device": ""
+    },
+    {
+      "key": "ayan2",
+      "device": "2222222222222222"
+    },
+    {
+      "key": "KEY_DEVICE_3",
+      "device": "3333333333333333"
+    }
+  ]
 }
